@@ -50,14 +50,6 @@ Plataforma web para monitoramento e gerenciamento da produção industrial de me
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexanderyan3290&show_icons=true&theme=github_dark&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderyan3290&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-araujo-114a19268)
