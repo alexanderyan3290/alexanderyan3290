@@ -58,4 +58,4 @@ Plataforma web para monitoramento e gerenciamento da produção industrial de me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderyan1276@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](COLE_SEU_LINK_DO_INSTAGRAM_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rysilvaaha)
